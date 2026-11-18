@@ -1,0 +1,10 @@
+{
+  "appId": "com.boirong.cashmemo",
+  "appName": "Boirong Cash Memo",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
